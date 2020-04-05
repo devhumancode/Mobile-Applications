@@ -1,0 +1,15 @@
+{
+  "pendingAdverts": [
+    { "id": "1", "title": "Repair Service", "image": "https://aa-boschap-uk.resource.bosch.com/media/parts/special__auto_parts_1/electronic_repair_service_1/elektroreparaturservice_gb_734x350~1_w734.jpg", "content": "We have just opened our new branch is Ealing Broadway!" },
+    { "id": "2", "title": "IKEA", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocyok-NAcJEBGJKur4KmFC5B_uXUVJZBQrBf9c892Ql3AvcfQ&s", "content": "Chairs for office on huge discounts, place your order now!" },
+    { "id": "3", "title": "Starbucks", "image": "https://starbuckssecretmenu.net/wp-content/uploads/2013/06/caramel-macchiato-frappuccino.jpg", "content": "Try our caramel macchiato only for £1 today!" },
+    { "id": "4", "title": "Goverment", "image": "http://www.teletracnavman.co.uk/blog/uk/blog%2017/brexit-maintence-hdr.jpg", "content": "Brexit was delayed for another 99 years due to clever people!" },
+    { "id": "5", "title": "Police", "image": "https://i.ytimg.com/vi/M78qsR7hKq4/hqdefault.jpg", "content": "Missing person, if anyone saw this geezer, please contact us immediately!" }
+  ],
+  "confirmedAdverts": [
+    { "id": "1", "title": "McDonalds", "image": "https://i0.wp.com/www.eatthis.com/wp-content/uploads/2016/12/mcdonalds-fast-food.jpg?fit=500%2C366&ssl=1", "content": "Everyobody loves discounts, grab any meal at any size only for £4 this year" },
+    { "id": "2", "title": "TFL", "image": "http://www.betterbuildingspartnership.co.uk/sites/default/files/images/logo/TfLWeb%20Logo_0.jpg", "content": "Students, great news! Buy travelcards at 99% off, make your life easy now!" },
+    { "id": "3", "title": "LinkedIN", "image": "https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg", "content": "If you are struggling with your job search - it is time to create your profile with us, millions of job oppurtunities are waiting!" },
+    { "id": "4", "title": "British Airways", "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/23/11/ba-a380-2.png?w968h681", "content": "If you are travelling more than once a year, buy your tickets at huge 50% discounts every second flight!" }
+  ]
+}
